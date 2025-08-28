@@ -12,7 +12,7 @@ Pensamiento Algorítmico G02
 **Fecha**
 27 de agosto de 2025
 
-**1.	Guías de compilación e instructivo para ejecutar código **
+**1.	Guías de compilación con instructivo para ejecutar código **
 
 Windows 10 en adelante à https://youtu.be/GEZLjRSY_m8?si=ISE0XP1zroLWbiqw
 Linux (minuto 0:41-7:14) à https://youtu.be/LPCrEF9R5Mg?si=2H6PPVpeATCJxS9J
